@@ -1,5 +1,3 @@
-# Code repo for cycbetterthanyesterday.pythonanywhere.com
-
 ## Purpose
 The primary goal of this repository is to share the workflows, scripts, and visualizations implemented on [cycbetterthanyesterday.pythonanywhere.com](https://cycbetterthanyesterday.pythonanywhere.com). These resources are intended for:
 - Demonstrating data analysis pipelines and techniques applicable to both biological and non-biological datasets.
