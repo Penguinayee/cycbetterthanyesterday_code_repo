@@ -1,9 +1,7 @@
-# Code for CycBetterThanYesterday
-
-This repository contains the code used for [cycbetterthanyesterday.pythonanywhere.com](https://cycbetterthanyesterday.pythonanywhere.com). The website serves as a platform to share and showcase data analyses, insights, and interactive data visualizations related to various biological or non-biological datasets.
+# Code repo for cycbetterthanyesterday.pythonanywhere.com
 
 ## Purpose
-The primary goal of this repository is to share the workflows, scripts, and visualizations implemented on the website. These resources are intended for:
+The primary goal of this repository is to share the workflows, scripts, and visualizations implemented on [cycbetterthanyesterday.pythonanywhere.com](https://cycbetterthanyesterday.pythonanywhere.com). These resources are intended for:
 - Demonstrating data analysis pipelines and techniques applicable to both biological and non-biological datasets.
 - Providing reproducible examples for others to learn from or build upon.
 - Facilitating collaboration and feedback within the broader data science and bioinformatics communities.
