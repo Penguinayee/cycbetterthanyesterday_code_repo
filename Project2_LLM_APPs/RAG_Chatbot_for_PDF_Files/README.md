@@ -24,6 +24,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 1. Download the files:
 - requirements.txt
 - app.py
+- (Optiional) Example_pdf_documents
 
 2. Install required packages:
 You can install the required packages directly:
@@ -45,8 +46,9 @@ python app.py
 - Visit the app's page on Hugging Face Spaces: [Hugging Face RAG Chatbot](https://huggingface.co/spaces/cycbetterthanyesterday/RAG-Based_PDF_summarizer)
 
 ## Usage
-1. **Upload PDF:** Click the 'Upload & Process PDF' button after selecting a file.
-2. **Ask Questions:** Type your question and hit enter. The chatbot will respond based on the uploaded PDF content.
+1. **Paste Your OPENAI API-KEY:** Ususlly starts with 'sk-xxxxxx'
+2. **Upload PDF:** Click the 'Upload & Process PDF' button after selecting a file.
+3. **Ask Questions:** Type your question and hit enter. The chatbot will respond based on the uploaded PDF content.
 
 ## Troubleshooting
 - **No PDF Uploaded Warning:** Make sure to upload a PDF before asking questions.
