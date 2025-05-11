@@ -18,19 +18,12 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 ## Installation
 ### Prerequisites
 - Python 3.9+
-- Pip
-
-### Install required packages:
-```
-pip install -qU pypdf langchain langchain-community gradio requests openai langchain_openai langchain-chroma opentelemetry-sdk faiss-cpu
-```
+- pip
 
 ## How to Run
-1. Clone the repository:
-```
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
-```
+1. Download the files:
+- requirements.txt
+- app.py
 
 2. Install required packages:
 You can install the required packages directly:
